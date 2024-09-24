@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Leonardo Di Domenico Capitanio 👋</h1>
 
 <p align="center">
-  Sou um desenvolvedor de software júnior com foco em desenvolvimento mobile e frontend.
+  Sou um desenvolvedor de software júnior com foco em desenvolvimento mobile.
 </p>
 
 ---
